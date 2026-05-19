@@ -312,22 +312,21 @@ Conditions:
 
 ## 👨‍💼 Author
 
-**Your Name**  
+**Janvi Patel**  
 Student | Programmer | Java Enthusiast
 
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@YourUsername](https://github.com/YourUsername)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- 📧 Email: janvipatel24071@gmail.com
+- 🐙 GitHub: [@Janvipatel24](https://github.com/Janvipatel24)
+- 💼 LinkedIn: [Janvi Patel](https://www.linkedin.com/in/janvi-patel-342519319/)
 
 ---
 
 ## 🎓 Course Information
 
-- **Course:** Principles of Programming Languages (24IC208L)
-- **Institution:** Your University/College
-- **Semester:** Jan-May 2026
-- **Marks:** 15/15 (A+ Implementation)
-- **Submission Date:** 12th April 2026
+- Course: Principles of Programming Languages (24IC208L)
+- Institution: Pandit Deendayal Enery University
+- Semester: 4 (Jan-May 2026)
+
 
 ---
 
